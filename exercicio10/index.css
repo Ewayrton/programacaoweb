@@ -6,7 +6,7 @@ body {
     flex-direction: column;
     align-items: center;
 }
-.Estoque-Produto {
+.Container-Produto {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
